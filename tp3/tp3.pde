@@ -2,7 +2,7 @@ PImage img;
 
 void setup() {
   size(800, 400);
-  img = loadImage("cuadro.png"); // Asegurate de tener esta imagen en la carpeta del sketch
+  img = loadImage("cuadro.png"); // 
   rectMode(CENTER);
   imageMode(CORNER);
   noFill();
