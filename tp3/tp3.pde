@@ -48,7 +48,7 @@ void draw (int steps, int spacing) {
 
   }
 
-  // Cuadro rojo central
+ 
   fill(250);
   noStroke();
   rect(0, 0, spacing * 2, spacing * 2); // 40x40 si spacing = 20
